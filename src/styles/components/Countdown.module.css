@@ -55,7 +55,7 @@
     color: var(--title);
 }
 
-.countdownButtonActive:not(:disabled):hover{
+.countDownButtonActive:not(:disabled):hover{
     background: var(--red);
     color: var(--white);
 }

@@ -20,8 +20,13 @@
 
 }
 body {
-  background: var(--background);
-  color: var(--text);
+    background-image: linear-gradient(  157.7deg,
+    #F8F1FF -1.83%,
+    #F8F1FF 28.93%,
+    #F8F1FF 62.87%,
+#04000F 100%);
+  
+color: var(--title);
 }
 @media(max-width: 1000px){
     html{
